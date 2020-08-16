@@ -35,7 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [NSBM Naadha gama 2019 | NSBM "නාදගම"](https://www.youtube.com/watch?v=--CgY3SjTkQ)
+- [PewDiePie vs T-Series Sub Count: Who will win?](https://www.youtube.com/watch?v=0hZhVXjnD3g)
+- [Trek Wolf | Check Windows Build version using Dism](https://www.youtube.com/watch?v=Nbt6VHXVQb8)
+- [Trek Wolf | Christmas Special | Jingle Bells Mini Mix](https://www.youtube.com/watch?v=U5s8i-06pdM)
+- [Trek Wolf | Victory - Official Audio](https://www.youtube.com/watch?v=DCIXSj9X-g0)
 <!-- YOUTUBE:END -->
 
 ---
