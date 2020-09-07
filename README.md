@@ -1,13 +1,12 @@
-### Hi there, I'm Chandima 👋 | You may also know me by [Trek Wolf] 😉
+### Hi there, I'm kryptocj 👋 | You may also know me by [Trek Wolf] 😉
 
-## I'm a Designer, Developer and University Student!
-- 🔭 I’m currently studying NSBM University!
+## I'm a Designer, Developer and a University Student!
+- 🔭 I’m currently studying at NSBM University!
 - 👨‍💻 My work is available at **[Ui Addict][website]**
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Web, Graphic Designing and Networking
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **vishwajith.9t@gmail.com**
-- ⚡ Fun fact: I love to listen to music
 
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/flutter.svg" alt="flutter" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dart.svg" alt="dart" width="20" height="20"/></p>
@@ -16,7 +15,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<!--[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -54,6 +53,8 @@
 [website]: https://ui-addict.blogspot.com
 
 [youtube]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
+
+[twitter]: https://twitter.com/vishwajith_cj
 
 [instagram]: https://www.instagram.com/chandima.vishwajith
 
