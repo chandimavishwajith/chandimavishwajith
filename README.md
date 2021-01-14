@@ -1,4 +1,4 @@
-### Hi there, I'm kryptocj 👋 | You may also know me by [Lone Wolf] 😉
+### Hi there, I'm kryptocj 👋 | You may also know me by [Chandima Vishwajith] 😉
 
 ## I'm a Designer, Developer and a University Student!
 - 🔭 I’m currently studying at University!
