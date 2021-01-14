@@ -1,7 +1,7 @@
-### Hi there, I'm kryptocj 👋 | You may also know me by [Trek Wolf] 😉
+### Hi there, I'm kryptocj 👋 | You may also know me by [Lone Wolf] 😉
 
 ## I'm a Designer, Developer and a University Student!
-- 🔭 I’m currently studying at NSBM University!
+- 🔭 I’m currently studying at University!
 - 👨‍💻 My work is available at **[Ui Addict][website]**
 - 🌱 I’m currently learning Web, Graphic Designing and Networking
 - 👯 I’m looking to collaborate with other content creators
@@ -62,4 +62,4 @@
 
 [Ui Addict]: https://ui-addict.blogspot.com
 
-[Trek Wolf]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
+[Lone Wolf]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
