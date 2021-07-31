@@ -1,4 +1,4 @@
-### Hi there, I'm chandimav7 👋 | You may also know me by [Chandima Vishwajith] 😉
+### Hi there, I'm Chandima 😉
 
 ## I'm a Designer and a Developer!
 - 🔭 I’m currently studying at University!
