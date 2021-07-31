@@ -1,9 +1,9 @@
-### Hi there, I'm kryptocj 👋 | You may also know me by [Chandima Vishwajith] 😉
+### Hi there, I'm chandimav7 👋 | You may also know me by [Chandima Vishwajith] 😉
 
-## I'm a Designer, Developer and a University Student!
+## I'm a Designer and a Developer!
 - 🔭 I’m currently studying at University!
 - 👨‍💻 My work is available at **[Ui Addict][website]**
-- 🌱 I’m currently learning Web, Graphic Designing and Networking
+- 🌱 I’m currently learning Graphic Designing and Networking
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 - 📫 How to reach me **vishwajith.9t@gmail.com**
@@ -27,7 +27,7 @@
 ## 📊 Skills
 <!--START_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kryptocj&layout=compact)](https://github.com/kryptocj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandimav7&layout=compact)](https://github.com/kryptocj/github-readme-stats)
 
 <!--END_SECTION:waka-->
 <br />
@@ -43,7 +43,7 @@
 
 ---
 
-<img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kryptocj&show_icons=true&hide_border=true" />
+<img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chandimav7&show_icons=true&hide_border=true" />
 
 
 
@@ -54,12 +54,8 @@
 
 [youtube]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
 
-[twitter]: https://twitter.com/vishwajith_cj
+[twitter]: https://twitter.com/chandimav97
 
 [instagram]: https://www.instagram.com/chandima.vishwajith
 
-[linkedin]: https://www.linkedin.com/in/chandima-vishwajith-jopheus-7a0ba110a/
-
-[Ui Addict]: https://ui-addict.blogspot.com
-
-[Lone Wolf]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
+[linkedin]: https://www.linkedin.com/in/chandima-jopheus-7a0ba110a/
