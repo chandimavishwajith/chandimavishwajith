@@ -1,59 +1,31 @@
-### Hi there, I'm Chandima 😉
+<h1 align="center">Hi 👋, I'm Chandima</h1>
+<h3 align="center">A System & Networking Enthusiast.</h3>
 
-## I'm a Designer and a Developer!
-- 🔭 I’m currently studying at University!
-- 👨‍💻 My work is available at **[Ui Addict][website]**
-- 🌱 I’m currently learning Graphic Designing and Networking
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals: Contribute more to Open Source projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandimav7&label=Profile%20views&color=0e75b6&style=flat" alt="chandimav7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandimav7" alt="chandimav7" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/chandimav97" target="blank"><img src="https://img.shields.io/twitter/follow/chandimav97?logo=twitter&style=for-the-badge" alt="chandimav97" /></a> </p>
+
+- 🌱 I’m currently learning **Cisco Networking**
+
+- 💬 Ask me about **Networking, Web and Graphic Designing**
+
 - 📫 How to reach me **vishwajith.9t@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chandimav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandimav97" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandima-jopheus-7a0ba110a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandima-jopheus-7a0ba110a" height="30" width="40" /></a>
+<a href="https://fb.com/chandimav7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandimav7" height="30" width="40" /></a>
+<a href="https://instagram.com/chandima.vishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandima.vishwajith" height="30" width="40" /></a>
+</p>
 
-### Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandimav7&show_icons=true&theme=onedark&locale=en&layout=compact" alt="chandimav7" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandimav7&show_icons=true&theme=onedark&locale=en" alt="chandimav7" /></p>
 
-<br />
-
----
-
-## 📊 Skills
-<!--START_SECTION:waka-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandimav7&layout=compact)](https://github.com/kryptocj/github-readme-stats)
-
-<!--END_SECTION:waka-->
-<br />
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [NSBM Naadha gama 2019 | NSBM "නාදගම"](https://www.youtube.com/watch?v=--CgY3SjTkQ)
-- [PewDiePie vs T-Series Sub Count: Who will win?](https://www.youtube.com/watch?v=0hZhVXjnD3g)
-- [Trek Wolf | Check Windows Build version using Dism](https://www.youtube.com/watch?v=Nbt6VHXVQb8)
-- [Trek Wolf | Christmas Special | Jingle Bells Mini Mix](https://www.youtube.com/watch?v=U5s8i-06pdM)
-- [Trek Wolf | Victory - Official Audio](https://www.youtube.com/watch?v=DCIXSj9X-g0)
-<!-- YOUTUBE:END -->
-
----
-
-<img align="left" alt="CreatorGhost's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chandimav7&show_icons=true&hide_border=true" />
-
-
-
-
-
-
-[website]: https://ui-addict.blogspot.com
-
-[youtube]: https://www.youtube.com/channel/UCt5gKZ2TsM5xRBN8A96ifDA?
-
-[twitter]: https://twitter.com/chandimav97
-
-[instagram]: https://www.instagram.com/chandima.vishwajith
-
-[linkedin]: https://www.linkedin.com/in/chandima-jopheus-7a0ba110a/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandimav7&theme=dark" alt="chandimav7" /></p>
