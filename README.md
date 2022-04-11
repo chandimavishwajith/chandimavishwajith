@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandimav97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandimav97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandima-jopheus-7a0ba110a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandima-jopheus-7a0ba110a" height="30" width="40" /></a>
-<a href="https://fb.com/chandimav7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandimav7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chandimavishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandimavishwajith" height="30" width="40" /></a>
+<a href="https://fb.com/chandimavishwajith7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandimavishwajith7" height="30" width="40" /></a>
 <a href="https://instagram.com/chandima.vishwajith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandima.vishwajith" height="30" width="40" /></a>
 </p>
 
