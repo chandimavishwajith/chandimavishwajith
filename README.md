@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/chandimavish" target="blank"><img src="https://img.shields.io/twitter/follow/chandimavish?logo=twitter&style=for-the-badge" alt="chandimavish" /></a> </p>
 
-- 🌱 I’m currently learning **Cisco Networking**
+- 🏢 Currently working as a **Technical Support Engineer**
+
+- 📗 I’m currently learning **Juniper Networking**
 
 - 💬 Ask me about **Systems & Networking**
 
-- 📫 How to reach me **vishwajith.9t@gmail.com**
+- 📞 How to reach me **vishwajith.9t@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
