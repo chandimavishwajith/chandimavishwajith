@@ -9,7 +9,7 @@
 
 - 🏢 Currently working as a **Technical Support Engineer**
 
-- 📗 I’m currently learning **Juniper Networking**
+- 📗 I’m currently learning **Juniper**, **Check Point** and **Senhasegura**
 
 - 💬 Ask me about **Systems & Networking**
 
